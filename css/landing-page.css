@@ -31,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../honeymoon-fund/img/background.jpg) no-repeat center center;
+    background: url(../img/background.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -121,7 +121,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../honeymoon-fund/img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/banner-bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -177,7 +177,7 @@ p.copyright {
 .venmo_svg {
     width: 18px;
     height: 18px;
-    background-image: url(../honeymoon-fund/img/venmo.svg);
+    background-image: url(../img/venmo.svg);
     display: inline-block;
 }
 
