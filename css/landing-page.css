@@ -35,13 +35,21 @@ h6 {
     background-size: cover;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 767px) {
 
     .intro-header {
         background: url(../img/background.jpg) no-repeat center center;
             background-size: cover;
 
         background-position-y: -300px;
+    }
+
+    footer {
+        padding: 50px 0;
+        background: url(../img/thenug.jpg);
+        background-size: contain;
+        background-color: #f8f8f8;
+        background-position-y: -200px;
     }
 }
 
@@ -170,7 +178,20 @@ h6 {
 
 footer {
     padding: 50px 0;
+    background: url(../img/thenug.jpg);
+    background-size:cover;
     background-color: #f8f8f8;
+    background-position-y: -20px;
+}
+
+@media screen and (min-width: 767px) {
+    footer {
+        padding: 50px 0;
+        background: url(../img/thenug.jpg);
+        background-size: contain;
+        background-color: #f8f8f8;
+        background-position-y: -200px;
+    }
 }
 
 p.copyright {
