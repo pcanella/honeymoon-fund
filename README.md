@@ -3,7 +3,7 @@
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
- - Place a image in `/img/services/`
+ - Place a image in `/honeymoon-fund/img/services/`
  - Create posts to display your services. Use the follow as an example:
 
 ```txt
@@ -20,7 +20,7 @@ The description of this service
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/honeymoon-fund/img/screenshot.png)
 
 ===
 
